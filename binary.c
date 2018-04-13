@@ -3,7 +3,7 @@
 03	int
 04	main(int argc, char **argv)
 05	{
-06	    int a[] = {2, 4, 6, 8, 10, 12, 14, 16};
+06	    int a[] = {2, 4, 6, 8, 10, 12, 14, 16,32,36,44,50};
 07	    int key = atoi(argv[1]);
 08	    int n = 8;
 09	    int low = 0;
